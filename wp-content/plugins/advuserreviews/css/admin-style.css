@@ -1,0 +1,16 @@
+/* Необходимые стили для админ панели */
+
+#center-panel form {
+	padding: 10px;
+	background-color: #f8f8f8; 
+	width: 60%;
+	margin: 0 auto;
+	border: 1px solid #b6b6b6;
+	}
+#center-panel .input-table td {
+	padding: 5px;
+	}
+#center-panel .input-table input, #center-panel .input-table textarea{
+	width: 100%;
+	}
+  .status{color:#900}
